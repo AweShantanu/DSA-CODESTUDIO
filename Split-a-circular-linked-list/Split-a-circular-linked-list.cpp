@@ -1,6 +1,6 @@
 #include <bits/stdc++.h> 
 /********************************
-   extra comment
+   
    class Node
    {
    public:
